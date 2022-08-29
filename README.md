@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi, I’m Fernando! 👋<br>
-- 🔥 Web developer<br>
+- 🔥 Software developer<br>
 - 😱 I’m currently learning Data structures and Algorithms<br>
 - 📧 fervd2493@gmail.com<br>
 - 🎨 Portfolio: https://fervd-dev.netlify.app/<br>
