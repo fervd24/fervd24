@@ -2,7 +2,7 @@
   <samp>
     Hi, I’m Fernando! 👋<br>
 - 🔥 Software developer<br>
-- 😱 I’m currently learning Data structures and Algorithms<br>
+- 😱 I’m currently learning Clean Architecture<br>
 - 📧 fervd2493@gmail.com<br>
 - 🎨 Portfolio: https://fervd-dev.netlify.app/<br>
 - 💼 Linked In: https://www.linkedin.com/in/fernando-villalobos-davila-516a09123/<br>
